@@ -28,9 +28,7 @@ I'm interested in sharing my projects, experiments, documentation, and discoveri
 
 ## Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,java,spring,python,postgres,docker,git,linux" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,js,ts,java,spring,python,postgres,oracle" /> </p>
 
 ---
 
